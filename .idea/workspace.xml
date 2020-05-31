@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4936978b-df97-4eab-b646-38c7dd6940a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="go" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1bk0O3thSzjpXZWSs9t5w9FtsRf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kube/configmap" />
+      <recent name="$PROJECT_DIR$/kube/ingress" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build handler.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/kube/pod/handler.go" />
+      <package value="k8s" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build service.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/service/service.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build handler.go" />
+        <item itemvalue="Go Build.go build service.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="171" key="#Go_Modules_(vgo)" timestamp="1589160905792">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="654" y="171" key="#Go_Modules_(vgo)/0.0.1920.1080@0.0.1920.1080" timestamp="1589160905792" />
+    <state x="725" y="225" width="462" height="587" key="#com.intellij.ide.util.MemberChooser" timestamp="1589259551250">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="725" y="225" width="462" height="587" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1026@0.0.1920.1026" timestamp="1589259551250" />
+    <state x="685" y="143" width="541" height="751" key="#go_build_handler.go" timestamp="1590539744150">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="685" y="143" width="541" height="751" key="#go_build_handler.go/0.0.1920.1026@0.0.1920.1026" timestamp="1590539744150" />
+    <state x="689" y="137" width="541" height="751" key="#go_build_service.go" timestamp="1590203038979">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="689" y="137" width="541" height="751" key="#go_build_service.go/0.0.1920.1026@0.0.1920.1026" timestamp="1590203038979" />
+    <state x="1419" y="309" width="426" height="496" key="FileChooserDialogImpl" timestamp="1589178372671">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1419" y="309" width="426" height="496" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589178372671" />
+    <state width="1874" height="298" key="GridCell.Tab.0.bottom" timestamp="1590670493010">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="1874" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1026@0.0.1920.1026" timestamp="1590670493010" />
+    <state width="1874" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590218237948" />
+    <state width="1874" height="298" key="GridCell.Tab.0.center" timestamp="1590670493009">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="1874" height="298" key="GridCell.Tab.0.center/0.0.1920.1026@0.0.1920.1026" timestamp="1590670493009" />
+    <state width="1874" height="286" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590218237947" />
+    <state width="1874" height="298" key="GridCell.Tab.0.left" timestamp="1590670493009">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="1874" height="298" key="GridCell.Tab.0.left/0.0.1920.1026@0.0.1920.1026" timestamp="1590670493009" />
+    <state width="1874" height="286" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590218237947" />
+    <state width="1874" height="298" key="GridCell.Tab.0.right" timestamp="1590670493009">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="1874" height="298" key="GridCell.Tab.0.right/0.0.1920.1026@0.0.1920.1026" timestamp="1590670493009" />
+    <state width="1874" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590218237948" />
+    <state x="0" y="129" width="932" height="742" key="SettingsEditor" timestamp="1590043687107">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="0" y="129" width="932" height="742" key="SettingsEditor/0.0.1920.1026@0.0.1920.1026" timestamp="1590043687107" />
+    <state x="1112" y="215" width="672" height="678" key="search.everywhere.popup" timestamp="1590310680427">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="1112" y="215" width="672" height="678" key="search.everywhere.popup/0.0.1920.1026@0.0.1920.1026" timestamp="1590310680427" />
+    <state x="627" y="399" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1589444929317">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="627" y="399" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1026@0.0.1920.1026" timestamp="1589444929317" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/k8s.io/client-go/kubernetes/typed/core/v1/service.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/k8s.io/client-go/kubernetes/typed/core/v1/persistentvolumeclaim.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/k8s.io/apimachinery/pkg/apis/meta/v1/types.go</url>
+          <line>124</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/kube/ingress/ingressstrcut.go</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
